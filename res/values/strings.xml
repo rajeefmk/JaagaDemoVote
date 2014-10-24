@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jaaga Demo Vote</string>
+    <string name="login_page">Login</string>
+    <string name="student_list_page">Jaag Study Fellows</string>
+    <string name="deliv_list_page">Deliverables</string>
+    
+    
+    <string name="urlButton">Submit</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_string">Login</string>
+    <string name="login_activity">Login Activity</string>
+    <string name="imgDesc">Profile Pic</string>
+    <string name="student_name">RmK</string>
+    <string name="project_numbers">3</string>
+    <string name="date">08/08/2014</string>
+    <string name="project_name">Kickass App</string>
+    <string name="project_description">This is one of the kickass 
+        								android apps that has been ever built. 
+        								It features an inbuilt smoke detector and can raise fire alarm
+        								.It can water your plants, wash your car, and even cook food for you
+        								</string>
+	<string name="project_number">1.</string>
+	<string name="upvote_data">Upvotes: 6</string>
+	<string name="downvote_data">Downvotes: 3</string>
+	<string name="current_vote">Coming Soon.. </string>
+	<string name="upvote_button">Upvote</string>
+	<string name="downvote_button">Downvote</string>
+	<string name="deliv_status">Status: Not Delivered</string>
+	
+	
+	<!-- <string name="project_list">Project Lists</string> -->
+	<string name="upcoming_project">Upcoming Project</string>
+	<string name="past_project">Past Project</string>
+</resources>
